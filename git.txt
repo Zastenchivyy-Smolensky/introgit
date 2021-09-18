@@ -3,3 +3,5 @@ gitの使い方を練習します
 影山リョウタ
 .git add 
 .git commit
+
+ああああ
