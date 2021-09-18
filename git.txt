@@ -5,3 +5,4 @@ gitの使い方を練習します
 .git commit
 .git status
 ああああ
+.git diff
